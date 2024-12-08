@@ -129,6 +129,7 @@ const medusaConfig = {
   ],
 };
 const plugins = [
+  `medusa-payment-manual`,
   {
     resolve: `medusa-payment-paypal`,
     options: {

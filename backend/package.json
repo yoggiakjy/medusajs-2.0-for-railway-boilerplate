@@ -38,6 +38,7 @@
     "@react-email/components": "^0.0.26",
     "awilix": "^8.0.1",
     "express": "^4.21.1",
+    "medusa-payment-manual": "^1.0.25",
     "medusa-payment-paypal": "^6.0.5",
     "medusajs-launch-utils": "^0.0.5",
     "minio": "^8.0.2",
